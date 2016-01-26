@@ -1,0 +1,3 @@
+http://opendata.admin.ch/de/dataset/homogene-monatsdaten
+
+http://opendata.admin.ch/de/dataset/ch-swisstopo-pixelkarte-farbe-pk1000-noscale4cd80
