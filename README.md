@@ -2,7 +2,7 @@
 
 Meteo is a small tool to analyze Swiss weather data (rain / temperature) from the years 1864-2013.
 
-It is fully implemented in the J programming language. To run the application, please download the J software suitable for your platform.
+It is fully implemented in the [J programming language](http://www.jsoftware.com). To run the application, please download the J software suitable for your platform.
 
 The weather data records based on [Swiss Open Data Records](http://opendata.admin.ch).
 
